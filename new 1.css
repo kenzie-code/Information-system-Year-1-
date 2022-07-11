@@ -1,0 +1,47 @@
+a:hover {color:#FFCC00}
+
+.container {
+		width:60%;
+		background-color:white;
+		text-align:ceter;
+		margin:auto;
+		padding:10px;
+}
+.container2 {
+		width:50%;
+		background-color:powderblue;
+		margin:auto;
+		padding:10px;
+}
+.slider-container{
+		width:40%
+		background-color:white;
+		margin:auto;
+		padding:10px;
+		text-align:center;
+}
+
+.b {
+		border:1px solid;
+}
+.current {
+		background-color:#33FFBA;
+		height:50px;
+}
+.menu {
+		background-color:white;
+		height:50px;
+}
+.menu {
+		background-color:white;
+		height:50px;
+}
+.menu {
+		background-color:white;
+		height:50px;
+}
+.text2 {
+			font-family:Public sans, Verdana, sans-serif;
+			color:#cc0099;
+	
+}
